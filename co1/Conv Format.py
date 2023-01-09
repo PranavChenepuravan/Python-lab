@@ -1,0 +1,4 @@
+list_name=["Akash","Binoy","Charly"]
+tup_name=(tuple(list_name))
+print(tup_name)
+
